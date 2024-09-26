@@ -1,4 +1,4 @@
-# Christopher Akey
+# GitHib Gems: Commit and Stars Data Pipeline
 
 What insights are you hoping to get?
 
@@ -18,7 +18,3 @@ Daily
 What format would you like the data delivered in?
 
 SQL database
-
-How do you currently analyze GitHub data?
-
-No current usage of GitHub data
