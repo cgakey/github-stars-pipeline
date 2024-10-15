@@ -1,0 +1,8 @@
+version: 2 
+ 
+sources: 
+  - name: gharchive 
+    database: github_stars 
+    schema: source 
+    tables: 
+      - name: gharchive
