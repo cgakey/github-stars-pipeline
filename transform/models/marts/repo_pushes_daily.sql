@@ -1,1 +1,1 @@
-{{ repo_event_by_period('Push', 'day') }}
+{{ repo_event_by_period('push', 'day') }}
